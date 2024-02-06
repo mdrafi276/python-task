@@ -7,4 +7,4 @@ amount = {
     "name":"Rafi",
     "price":10,
 }
-print(amount)
+print(amount.pop(1))
