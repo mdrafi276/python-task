@@ -17,6 +17,9 @@
 # print(list1)
 # thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 # print(thislist[2:6])
-thislist = ["apple", "banana", "cherry"]
-for x in thislist:
-  print(x)
+# thislist = ["apple", "banana", "cherry"]
+# for x in thislist:
+#   print(x)
+thislist1 = ["apple", "banana", "cherry"]
+for x in range(len(thislist1)):
+    print(x)
