@@ -11,5 +11,7 @@
 
 # mylist = ["apple", "banana", "cherry"]
 # print(mylist[1])
-my_list = ['rafi', "shakib", "rifat", "arafat"]
-print(type(my_list))
+# my_list = ['rafi', "shakib", "rifat", "arafat"]
+# print(type(my_list))
+list1 = ["abc", 34, True, 40, "male"]
+print(list1)
