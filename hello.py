@@ -4,7 +4,7 @@
 # print(number)
 
 # amount = {
-#     "name":"Rafi",
+#     "name":"Apple",
 #     "price":10,
 # }
 # print(amount.pop(1))
@@ -20,6 +20,16 @@
 # thislist = ["apple", "banana", "cherry"]
 # for x in thislist:
 #   print(x)
-thislist1 = ["apple", "banana", "cherry"]
-for x in range(len(thislist1)):
-    print(x)
+# thislist1 = ["apple", "banana", "cherry"]
+# for x in range(len(thislist1)):
+#     print(x)
+
+# for x in range(2, 4):
+#   print()
+# def add(num1, num2):
+#     return num1 + num2
+# add(3, 8)
+data = [5, 6, 8, 9, 1, 3, 4]
+print(data[::-2])
+
+
