@@ -59,5 +59,12 @@ data = [5, 6, 8, 9, 1, 3, 4]
 print(data[::-2])
 data = [5, 6, 8, 9, 1, 3, 4]
 print(data[::-2])
+print(data[::-2])
+data = [5, 6, 8, 9, 1, 3, 4]
+print(data[::-2])
+data = [5, 6, 8, 9, 1, 3, 4]
+print(data[::-2])
+data = [5, 6, 8, 9, 1, 3, 4]
+print(data[::-2])
 
 
