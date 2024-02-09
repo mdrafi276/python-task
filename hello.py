@@ -35,6 +35,7 @@
 # sum = a + b
 # print(sum)
 
+# more lines of code
 
 # a = 2
 # b = 10
@@ -51,8 +52,6 @@
 
 # function definition
 
-# def calc_sum1(x, y): #parameters
-#     return  x * y
     
 # sum = calc_sum1(2, 3) # function call; prguments
 # sum = calc_sum1(5, 10)
