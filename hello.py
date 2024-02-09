@@ -1,9 +1,5 @@
 
 
-# amount = {
-#     "name":"Apple",
-#     "price":10,
-# }
 # print(amount.pop(1))
 
 # mylist = ["apple", "banana", "cherry"]
