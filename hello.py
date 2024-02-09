@@ -52,22 +52,15 @@
 
 # function definition
 
+# def calc_sum1(x, y): #parameters
+#     return  x * y
     
 # sum = calc_sum1(2, 3) # function call; prguments
 # sum = calc_sum1(5, 10)
 # print(sum)
 
 
-# def print_hello():
-    
-#     print("hello")
-   
 
-# print_hello()
-# print_hello()
-# print_hello()
-# print_hello()
-# print_hello()
 
 # avarage of 3 numbers
 
