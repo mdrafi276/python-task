@@ -60,16 +60,7 @@
 # print(sum)
 
 
-# def print_hello():
-    
-#     print("hello")
-   
 
-# print_hello()
-# print_hello()
-# print_hello()
-# print_hello()
-# print_hello()
 
 # avarage of 3 numbers
 
