@@ -24,13 +24,7 @@
 # for x in range(len(thislist1)):
 #     print(x)
 
-# for x in range(2, 4):
-#   print()
-# def add(num1, num2):
-#     return num1 + num2
-# add(3, 8)
-# a = 5
-# b = 10
+
 
 # sum = a + b
 # print(sum)
