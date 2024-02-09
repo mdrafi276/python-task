@@ -60,18 +60,20 @@
 # print(sum)
 
 
+# def print_hello():
+    
+#     print("hello")
+   
 
+# print_hello()
+# print_hello()
+# print_hello()
+# print_hello()
+# print_hello()
 
 # avarage of 3 numbers
 
-# def calc_avg(a, b, c):
-#     sum = a + b + c
-#     avg = sum / 3
-#     print(avg)
-#     return avg
-# calc_avg(98, 97, 95)
-# calc_avg(89, 75, 90)
-# calc_avg(92, 90, 90)
+
 
 
 # cities = ["delhi", "gurgaon", "pune", "noida", "mumbai", "chennai"]
