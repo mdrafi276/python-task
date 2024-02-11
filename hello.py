@@ -163,10 +163,21 @@
 
 # s1 = Student()
 # print(s1.name)
-class Car1:
-    color = "black"
-    brand = "mercedes"
+# class Car1:
+#     color = "black"
+#     brand = "mercedes"
 
-car1 = Car1()
-print(car1.color)
-print(car1.brand)
+# car1 = Car1()
+# print(car1.color)
+# print(car1.brand)
+
+
+class Student :
+    
+    def __init__(self, fullname):
+        self.name = fullname
+        print("adding new student in database..")
+
+s1 = Student("karan")
+print(s1.name)
+
