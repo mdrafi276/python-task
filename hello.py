@@ -158,8 +158,15 @@
 # fruits = ["mango"," litchi ", "apple", "banana"]
 # print_list(fruits)
 
-class Student:
-    name = "karan"
+# class Student:
+#     name = "karan"
 
-s1 = Student()
-print(s1.name)
+# s1 = Student()
+# print(s1.name)
+class Car1:
+    color = "black"
+    brand = "mercedes"
+
+car1 = Car1()
+print(car1.color)
+print(car1.brand)
