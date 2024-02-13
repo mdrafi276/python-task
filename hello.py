@@ -173,7 +173,7 @@
 #     def __inti__(self):
 #         print("adding new student in Database")
 #     def __init__(self, fullname, marks):
-#         self.name = fullname
+#        
 
 
 
