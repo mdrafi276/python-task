@@ -177,7 +177,7 @@
 #         self.marks = marks
 #         print("adding new student in database..")
 
-# s1 = Student("karan", 97)
+
 
 
 
