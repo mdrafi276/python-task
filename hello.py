@@ -174,8 +174,8 @@
 #         print("adding new student in Database")
 #     def __init__(self, fullname, marks):
 #         self.name = fullname
-#         self.marks = marks
-#         print("adding new student in database..")
+
+
 
 
 
