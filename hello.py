@@ -180,6 +180,6 @@
 # s1 = Student("karan", 97)
 # print(s1.name, s1.marks)
 
-# print(s2.name, s2.marks)
+
 
 
