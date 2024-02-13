@@ -178,7 +178,7 @@
 #         print("adding new student in database..")
 
 # s1 = Student("karan", 97)
-# print(s1.name, s1.marks)
+
 
 
 
